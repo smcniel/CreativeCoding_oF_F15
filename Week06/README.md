@@ -4,7 +4,7 @@ This code uses a bit of code from the fboExample in openFrameworks. I also took 
 
 As you can see, I could never quite clear the fbo all the way to get rid of the trails.  But I ran out of time to experiment with it further.
 
-Example of tree animation cycling through all the seasons: 
+Fireworks in action! 
 ![alt text](gif/Firework.gif)  
 
 
